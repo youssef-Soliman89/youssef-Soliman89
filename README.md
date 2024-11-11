@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**youssef-Soliman89/youssef-Soliman89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a graduate student in **Business Analytics and AI** at **Ontario Tech University** with a strong foundation in **Quantitative Economics** from the **American University in Cairo**. My passion lies at the intersection of **data science**, **analytics**, and **human-centered data visualization**
 
-Here are some ideas to get you started:
+# About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Passionate about Data Analytics, AI/ML, and Data Storytelling  
+📚 I'm currently pursuing a Master’s in Business Analytics and AI @ Ontario Tech University  
+🎯 Goals: Using my skills to drive meaningful insights and impactful solutions  
+🎲 Fun fact: I have a strong foundation in quantitative economics and love exploring data-driven stories  
+
+## 🛠️ Tools & Technologies
+
+I work with:
+
+- **Programming & Scripting**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+- **Data Analytics & Visualization**: ![Jupyter](https://img.shields.io/badge/-Jupyter-orange?logo=jupyter) ![R](https://img.shields.io/badge/-R-blue?logo=r) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv)
+- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) 
+- **Tools & Frameworks**: ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode)  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud)
+- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab) 
+
+Thank you for visiting my GitHub! I'm always open to collaborating on exciting projects.
+
