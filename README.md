@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a graduate student in **Business Analytics and AI** at **Ontario Tech University** with a strong foundation in **Quantitative Economics** from the **American University in Cairo**. My passion lies at the intersection of **data science**, **analytics**, and **human centered data visualization**
+Welcome to my GitHub profile! I'm a graduate student in **Business Analytics and AI** at **Ontario Tech University** with a strong foundation in **Quantitative Economics** from the **American University in Cairo** and a minor in **Computer Science**. My passion lies at the intersection of **data science**, **analytics**, and **human centered data visualization**
 
 # About Me
 
