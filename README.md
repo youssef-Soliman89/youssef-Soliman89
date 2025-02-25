@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm a graduate student in **Business Analytics and
 
 ✨ Passionate about Data Analytics, AI/ML, and Data Storytelling  
 📚 I'm currently pursuing a Master’s in Business Analytics and AI @ Ontario Tech University  
-🎯 Goals: Using my skills to drive meaningful insights and impactful solutions  
-🎲 Fun fact: I have a strong foundation in quantitative economics and love exploring data-driven stories  
+🎯 Goals: Using my skills to drive meaningful insights and impactful solutions   
 
 ## 🛠️ Tools & Technologies
 
